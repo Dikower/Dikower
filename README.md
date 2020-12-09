@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is Dmitriy and there are some facts about me
-- 🎓 I'm a student of NUST MISiS, Applied Math
+- 🎓 I'm a student of Applied Math in NUST MISiS
 - ❤️ I realy love to work in fields of Data Science and Full-Stack development
 - 🚀 Currently I'm working on multiple projects, such as [Common Data](https://github.com/tpofd/common-data-app) 
 and [UniBots](https://unibots-landing.now.sh/) as CTO.
