@@ -9,4 +9,4 @@ and [UniBots](https://unibots-landing.now.sh/) in role of CTO. But I'am always o
 ![Dikower's github stats](https://github-readme-stats.vercel.app/api?username=Dikower&show_icons=true&theme=tokyonight)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dikower&langs_count=6&theme=tokyonight&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dikower&langs_count=8&theme=tokyonight&layout=compact)
