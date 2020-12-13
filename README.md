@@ -5,7 +5,7 @@ My name is Dmitriy and there are some facts about me
 - 🚀 Currently I'm working on multiple projects, such as [Common Data](https://github.com/tpofd/common-data-app) 
 and [UniBots](https://unibots-landing.now.sh/) as CTO
 - 📫 You can contact me [here](https://t.me/Dikower). I'm always open to new ideas and suggestions
-
+[![Dikower's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Dikower&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ![Dikower's github stats](https://github-readme-stats.vercel.app/api?username=Dikower&show_icons=true&theme=tokyonight)
 
 
