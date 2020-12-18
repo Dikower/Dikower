@@ -13,4 +13,4 @@ and [UniBots](https://unibots-landing.now.sh/) as CTO
 [![Dikower's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Dikower&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dikower&hide=jupyter%20notebook&langs_count=8&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dikower&hide=jupyter,css%20notebook&langs_count=6&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
