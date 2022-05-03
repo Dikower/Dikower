@@ -18,7 +18,8 @@ My passion is to create useful and complex stuff connected with __Full-Stack__ d
 ---
 
 <h2 align="center"> 🛠 My Tech Stack </h2>
-<div align="center">
+
+[comment]: <> (<div align="center">)
 <h3>💬 Languages</h3>
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a> 
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
@@ -80,7 +81,8 @@ My passion is to create useful and complex stuff connected with __Full-Stack__ d
 <a href="https://project-serum.github.io/anchor/"><img src="https://img.shields.io/static/v1?label=&message=Solana&color=black&style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAzFBMVEUAAABUqcdgnsxcosqRbOBNscSYZOONcN5kmc5zitRolc+oVOqUaOGKc91Avr9wjdKsT+x3htVRrcaGd9t5g9ZtkNGBfNmjWeeDedo8wr02x7q0SO99gNcs0ra6QvEk2rOfXeZYpchHtsKxS+2bYeR+fthKtMIo1rXAO/RFucAf37Ezy7m9P/KdX+U5xbsvz7eHddxrktDEOPVXpsgxzbgZ5q4c46/GNfbJMvfUJ/zMMPm3RfAV6q1Eur/PLfoQ76rSKvsL9KgT7KvZIv4OEvLOAAAAAXRSTlMAQObYZgAAAaBJREFUWMPt1clygkAUhWEEUdGoiBM4gRPibIwTxqjR93+nUBBv0yI09pLi7P9vAbeAiRexSTzP63qvNx4XrCmKsmg0GtPpZrlst9uj0UhV1clkstvtttvT6XS7XC6/1lCfSEhA/AQTW0QgoJtIkAkVI24WAT3HdR2Cf4uAnmU5i/h6l4A+w7KIkBzCEh7EwiY2G0dABPTZTCaIUHwI6D+zWRoC+mK1SkNALwjFAEL3Es7ThL5UEsIQBSCcF8LAKpUXBAeEz30z8SK2dDqdz6/KZVmuDYetFpxF8H27gGQSiFp4AhNoCF13CR+IkB2iEuK+MQGIMiJKRMIlpP6JPJmAj6/0JHiI1oMo+hKY4CJWGCEEEZhAQ7iFgUU4gg9RtQn8neJCGMJ7Fi5h/pogXBYTL2Lr90VRzFmr1+uaptlnQb5v1DebTRoC+k7n20PMyccJ/WzWoSGgNwzjQfQ9RAqI518A9Ov1GgQyAd9v6A/7/TMhhiCgPx4PNmEEEAMPIUN/PZ9pCOhN80pDQH83TQKRcwgNIxgE3MmE9ziZeNHaH5qHr/xs+1HeAAAAAElFTkSuQmCC"></a>
 <a href="https://svelte.dev"><img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"></a>
 <a href="https://svelte.dev"><img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"></a>
-</div>
+
+[comment]: <> (</div>)
 
 [![Dikower's github stats](https://github-readme-stats.vercel.app/api?username=Dikower&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
