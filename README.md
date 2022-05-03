@@ -84,10 +84,12 @@ My passion is to create useful and complex stuff connected with __Full-Stack__ d
 
 [comment]: <> (</div>)
 
-[![Dikower's github stats](https://github-readme-stats.vercel.app/api?username=Dikower&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Dikower&show_icons=true&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dikower&hide=jupyter%20notebook,css&langs_count=8&theme=tokyonight&layout=compact">
+</div>
 
 
-[comment]: <> ([![Dikower's wakatime stats]&#40;https://github-readme-stats.vercel.app/api/wakatime?username=Dikower&theme=tokyonight&langs_count=10&#41;]&#40;https://github.com/anuraghazra/github-readme-stats&#41;)
-
-
-[comment]: <> ([![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=Dikower&hide=jupyter%20notebook,css&langs_count=8&theme=tokyonight&layout=compact&#41;]&#40;https://github.com/anuraghazra/github-readme-stats&#41;)
+[comment]: <> (    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Dikower&theme=tokyonight&langs_count=10">)
