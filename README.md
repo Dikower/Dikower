@@ -3,7 +3,7 @@
 <h4 align="center">I'm a Software Engineer 👨‍💻, Photographer 📷 and Drone pilot 🛸</h4>
 
 Currently, I work and study at [the National University of Science and Technology MISiS](https://en.misis.ru/).
-Maintain several projects and tools focused on easing the developer experience during chatbot, web app creation.
+I maintain several projects and tools focused on facilitating the developer experience during chatbot, web app creation.
 
 My passion is to create useful and complex stuff connected with __Full-Stack__ development, __Data Science__ and __Blockchain__.
 
