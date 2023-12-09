@@ -102,7 +102,7 @@ My passion is to create useful and complex stuff connected with __Full-Stack__ d
 <div align="center">
 <picture >
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=dmdin&show_icons=true&theme=tokyonight"
+    srcset="https://github-readme-stats.vercel.app/api?username=dmdin&show_icons=true&theme=tokyonight&card_width=495"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -111,19 +111,6 @@ My passion is to create useful and complex stuff connected with __Full-Stack__ d
   />
   <img src="https://github-readme-stats.vercel.app/api?username=dmdin&show_icons=true" />
 </picture>
-
-
-<!-- <picture>
-    <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DmDin&hide=jupyter%20notebook,css&langs_count=4&theme=tokyonight&layout=donut"
-        media="(prefers-color-scheme: dark)"
-    />
-    <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DmDin&hide=jupyter%20notebook,css&langs_count=8&theme=light&layout=compact"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmDin&hide=jupyter%20notebook,css&langs_count=8&layout=compact"" />
-</picture> -->
 
 <picture>
     <source
@@ -134,7 +121,7 @@ My passion is to create useful and complex stuff connected with __Full-Stack__ d
         srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Dikower&theme=light&langs_count=10&layout=compact"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmDin&hide=jupyter%20notebook,css&langs_count=8&layout=compact"" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmDin&hide=jupyter%20notebook,css&langs_count=8" />
 </picture>
 
 <picture>
@@ -146,6 +133,6 @@ My passion is to create useful and complex stuff connected with __Full-Stack__ d
         srcset="https://github-readme-streak-stats.herokuapp.com/?user=DmDin&theme=light"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmDin&hide=jupyter%20notebook,css&langs_count=8&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmDin&hide=jupyter%20notebook,css&langs_count=8&layout=compact&exclude_days=Sat,Sun" />
 </picture>
 </div>
