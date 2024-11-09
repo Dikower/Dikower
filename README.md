@@ -1,5 +1,5 @@
 <h2 align="center">Hi there <img src="https://user-images.githubusercontent.com/25639843/166544919-18626d59-3e74-427e-a444-62c304f55f1a.gif" width="30px" height="30px"></h2>
-<h3 align="center">My name is Dmitriy Din</h3>
+<h3 align="center">My name is Igor Din</h3>
 <h4 align="center">I'm a Software Engineer 👨‍💻, Photographer 📷 and Drone pilot 🛸</h4>
 
 Currently, I study at [the National University of Science and Technology MISiS](https://en.misis.ru/) and work at [SberMarketing](https://sbermarketing.ru/).
