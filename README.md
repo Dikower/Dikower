@@ -9,7 +9,7 @@ My passion is to create useful and complex stuff connected with __Full-Stack__ d
 
 <div align="center">
     <p>You can keep in touch with me via:</p>
-    <a href="https://t.me/Dikower"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+    <a href="https://t.me/din_dm"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
     <a href="mailto:dmitriy1d01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href="https://instagram.com/dm_din"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
     <a href="https://www.youtube.com/channel/UCqahwAfhneIhzgLk5_Zy3Yw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
